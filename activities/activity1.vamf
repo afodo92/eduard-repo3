@@ -1,7 +1,7 @@
 {
    "name":"Activity - repo3",
    "shortDescription": "Test Activity on eduard-repo3 in master branch",
-   "icon":"images/customActivityManual.svg",
+   "icon":"customActivityManual.svg",
    "descriptionMarkdown":"customActivityManual.md",
    "topology": [
 {
