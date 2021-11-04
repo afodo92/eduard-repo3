@@ -8,7 +8,17 @@
       "name": "Velocity Cluster",
       "actionTitle":"Reserve",
       "description": "Create an immediate reservation on the topology",
-      "reservationDuration":""
+      "reservationDuration":"",
+      "automation": [
+         {
+            "testPath": "eduard-repo2/test_cases/test.fftc"
+         }
+      ],
+      "startupTasks":[
+         {
+            "testPath": eduard-repo2/test_cases/test.fftc
+         }
+      ]
     }]
 }
 
